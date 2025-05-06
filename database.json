@@ -1,0 +1,30 @@
+{
+	"admin": {
+		"username": "admin",
+		"password": "admin"
+	},
+	"visitor": [
+		{
+			"username": "visitor1",
+			"password": "password1"
+		},
+		{
+			"username": "visitor2",
+			"password": "password2"
+		}
+	],
+	"visit":[
+
+		{
+			"visitor": "visitor1",
+			"date": "2023-10-01",
+			"duration": 120
+		},
+		{
+			"visitor": "visitor2",
+			"date": "2023-10-02",
+			"duration": 90
+		}
+
+	]
+}
